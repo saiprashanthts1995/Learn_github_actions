@@ -13,4 +13,5 @@ DBT
 Informatica, atlas
 Tableau
 Azure
-Elastic Search, Kibana, Graphana, TimeSeries DB, New Relic, redis
+Elastic Search, Kibana, Graphana
+TimeSeries DB, New Relic, redis
