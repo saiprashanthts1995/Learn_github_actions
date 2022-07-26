@@ -1,7 +1,9 @@
 
 # Project Title
 
-Docker, Terraform and GitHub Actions
+
+# August 1 to October 2nd
+## Home
 
 AWS
 
@@ -17,37 +19,18 @@ Unix, Airflow and Jenkins
 
 Azure
 
+Snowflake, DBT
+
+Informatica, atlas, Tableau
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<u> **office** </u>
-
-AWS
-
-AWS
-
-Snowflake
-
-DBT
-
-Informatica, atlas
-
-Tableau
+## Office
 
 Elastic Search, Kibana, Graphana
 
 TimeSeries DB, New Relic, redis
+
+Docker, Terraform and GitHub Actions
 
