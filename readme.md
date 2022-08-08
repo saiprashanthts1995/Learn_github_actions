@@ -1,7 +1,7 @@
 
 # Data Engineering Plan
 
-## August 8 to October 2nd
+## August 8th to October 2nd
 
 ### Home
 
