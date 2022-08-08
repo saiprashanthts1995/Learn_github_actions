@@ -1,39 +1,32 @@
 
-# Project Title
+# Data Engineering Plan
+
+## August 8 to October 2nd
+
+### Home
+
+1. Basics of  Data Engineering
+2. AWS
+3. Databricks
+4. Spark and Big Data
+5. Kafka and Streaming
+6. Python, SQL, DWH
+7. Unix, Airflow and Jenkins
+8. Azure(40), Snowflake(20), DBT(10)
 
 
-# August 8 to October 2nd
-## Home
+### Daily
 
-Basic DE
-
-AWS
-
-Databricks
-
-Spark and Big Data
-
-Kafka and Streaming
-
-Python, SQL, DWH
-
-Unix, Airflow and Jenkins
-
-Azure(40), Snowflake(20), DBT(10)
-
-
-## Daily
-
-Elastic Search
-Kibana
-Graphana
-TimeSeries DB
-New Relic
-Redis
-Docker
-Terraform
-GitHub Actions
-Informatica
-Atlas
-Tableau
+1. Elastic Search
+2. Kibana
+3. Graphana
+4. TimeSeries DB
+5. New Relic
+6. Redis
+7. Docker
+8. Terraform
+9. GitHub Actions
+10. Informatica
+11. Atlas
+12. Tableau
 
