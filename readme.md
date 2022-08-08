@@ -2,8 +2,10 @@
 # Project Title
 
 
-# August 1 to October 2nd
+# August 8 to October 2nd
 ## Home
+
+Basic DE
 
 AWS
 
@@ -17,20 +19,21 @@ Python, SQL, DWH
 
 Unix, Airflow and Jenkins
 
-Azure
-
-Snowflake, DBT
-
-Informatica, atlas, Tableau
+Azure(40), Snowflake(20), DBT(10)
 
 
+## Daily
 
-
-## Office
-
-Elastic Search, Kibana, Graphana
-
-TimeSeries DB, New Relic, redis
-
-Docker, Terraform and GitHub Actions
+Elastic Search
+Kibana
+Graphana
+TimeSeries DB
+New Relic
+Redis
+Docker
+Terraform
+GitHub Actions
+Informatica
+Atlas
+Tableau
 
