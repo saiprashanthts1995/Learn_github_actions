@@ -9,10 +9,10 @@
 2. AWS
 3. Databricks
 4. Spark and Big Data( Hive, HDFS, Spark, File Formats, Compressions, YARN, Zookeeper) 
-5. Kafka and Spark Streaming
-6. Python, SQL, DWH
-7. Unix, Airflow and Jenkins
-8. Azure(40)
+5. Python, SQL, DWH
+6. Unix, Airflow and Jenkins
+7. Azure(40)
+8. Kafka and Spark Streaming
 9. Snowflake(20), DBT(10)
 
 
