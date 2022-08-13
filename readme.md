@@ -3,6 +3,7 @@
 
 ## August 15th to October 16th
 
+
 ### Home
 
 1. AWS
@@ -15,9 +16,7 @@
 8. Kafka and Spark Streaming
 9. Snowflake(20), DBT(10)
 
-
 ### Daily
-
 1. Elastic Search
 2. Kibana
 3. Graphana
@@ -33,3 +32,4 @@
 13. Zookeeper
 14. YARN
 15. Confluent Kafka
+16. ECS and ECR
