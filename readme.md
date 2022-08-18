@@ -27,3 +27,8 @@
 8. Atlas
 9. Tableau
 10. ECS and ECR
+
+1.5 - Coding 
+1.5 - Book
+1 - Extra
+1 - Pipelines and Data Modeling
