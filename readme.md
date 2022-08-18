@@ -26,7 +26,4 @@
 7. Informatica
 8. Atlas
 9. Tableau
-10. Zookeeper
-11. YARN
-12. Confluent Kafka
-13. ECS and ECR
+10. ECS and ECR
