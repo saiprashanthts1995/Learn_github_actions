@@ -8,8 +8,8 @@
 
 1.  Data Engineering Fundamentals
 2.  AWS
-3.  Spark and Big Data( Hive, HDFS, Sqoop, Spark, File Formats, Compressions, YARN, Zookeeper)
-4.  Databricks
+3.  Databricks
+4.  Spark and Big Data( Hive, HDFS, Sqoop, Spark, File Formats, Compressions, YARN, Zookeeper)
 5.  Python, SQL, DWH
 6.  Unix, Airflow and Jenkins
 7.  Azure(40)
