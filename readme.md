@@ -17,18 +17,18 @@
 9.  Snowflake(20), DBT(10)
 
 ### Daily
-1. Elastic Search and Kibana
-2. Cassandra
-3. Redis
-4. Docker
-5. Terraform
-6. GitHub Actions
-7. Informatica
-8. Atlas
-9. Tableau
+1.  Docker
+2.  Terraform
+3.  GitHub Actions
+4.  Informatica
+5.  Tableau
+6.  Cassandra
+7.  Redis
+8.  Atlas
+9.  Elastic Search and Kibana
 10. ECS and ECR
 
 1.5 - Coding 
-1.5 - Book
+2 - Book
 1 - Extra
-1 - Pipelines and Data Modeling
+0.5 - Pipelines
