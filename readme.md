@@ -1,4 +1,4 @@
-
+No ya
 # Data Engineering Plan
 
 ## August 22nd to October 30th
@@ -29,7 +29,7 @@
 9.  Elastic Search and Kibana
 10. ECS and ECR
 
-1.  1.5 - Coding 
-2.  2 - Book
-3.  1 - Extra
-4.  0.5 - Pipelines
+-   1.5 - Coding 
+-   2 - Book
+-   1 - Extra
+-   0.5 - Pipelines
