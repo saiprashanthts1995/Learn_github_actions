@@ -1,7 +1,7 @@
 No ya
 # Data Engineering Plan
 
-## August 22nd to October 30th
+## August 29th to October 2nd
 
 
 ### Home
@@ -10,12 +10,7 @@ No ya
 2.  AWS
 3.  Databricks
 4.  Spark and Big Data( Hive, HDFS, Sqoop, Spark, File Formats, Compressions, YARN, Zookeeper)
-5.  Python, SQL, DWH
-6.  AWS
-7.  Unix, Airflow and Jenkins
-8.  Azure(40)
-9.  Kafka and Spark Streaming
-10.  Snowflake(20), DBT(10)
+5.  Python, SQL, DWH, Unix
 
 ### Daily
 1.  Docker
@@ -30,6 +25,6 @@ No ya
 10. ECS and ECR
 
 -   1.5 - Coding 
--   2 - Book
+-   1.5 - Book
 -   1 - Extra
--   0.5 - Pipelines
+-   1 - Git Hub coding
